@@ -1,0 +1,28 @@
+# Build
+/build
+/app/build
+
+# IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle
+/local.properties
+/.gradle/
+/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystores
+*.jks
+
+# Others
+*.apk
+*.ap_
+
+# Ignore IntelliJ project files
+*.ipr
+*.iws
